@@ -34,7 +34,7 @@ I'm a 2nd Year Computer Science Student at The University of Manchester!
 <br>
 <br>
 
-<img align="left" alt="jennitirok's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jennitirok&show_icons=true&theme=cobalt&count_private=true&hide_border=true" />
+<img align="left" alt="jennitirok's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jennitirok&hide_border=true&show_icons=true&theme=cobalt&count_private=true&hide=stars" />
 
 
 [linkedin]: https://www.linkedin.com/in/jennitirok/
