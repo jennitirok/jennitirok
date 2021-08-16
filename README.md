@@ -40,4 +40,4 @@ I'm a 2nd Year Computer Science Student at The University of Manchester!
 [linkedin]: https://www.linkedin.com/in/jennitirok/
 [instagram]: https://www.instagram.com/jennitirok/
 [discord]: https://discord.com/users/jennitirok#9130
-[email]: jennifer.tirok@gmail.com
+[email]: mailto:jennifer.tirok@gmail.com
