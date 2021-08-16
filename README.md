@@ -2,15 +2,6 @@
 
 ### I'm a 2nd Year Computer Science Student at The University of Manchester!
 
-### Connect with me: 
-[<img align="left" alt="LinkedIn" width="40px" src="https://user-images.githubusercontent.com/46791949/129504805-f5ba1230-ca75-4b41-9e71-dde1c3c6abf3.png" />][linkedin]
-[<img align="left" alt="Instagram" width="40px" src="https://user-images.githubusercontent.com/46791949/129504821-b37e4c91-9cd9-4538-9ab2-d3f14e2d89eb.png" />][instagram]
-[<img align="left" alt="WhatsApp" width="49px" src="https://user-images.githubusercontent.com/46791949/129504846-d6fc58e3-ef33-41c0-b911-1b3812ae3ee8.png" />][discord]
-[<img align="left" alt="Instagram" width="40px" src="https://user-images.githubusercontent.com/46791949/129504870-a8ff1e80-4f75-4422-a1f5-9502d6e463d9.png" />][email]
-
-<br>
-<br>
-
 ### Languages:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
@@ -33,6 +24,16 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br>
+<br>
+<hr>
+
+### Connect with me: 
+[<img align="left" alt="LinkedIn" width="40px" src="https://user-images.githubusercontent.com/46791949/129504805-f5ba1230-ca75-4b41-9e71-dde1c3c6abf3.png" />][linkedin]
+[<img align="left" alt="Instagram" width="40px" src="https://user-images.githubusercontent.com/46791949/129504821-b37e4c91-9cd9-4538-9ab2-d3f14e2d89eb.png" />][instagram]
+[<img align="left" alt="WhatsApp" width="49px" src="https://user-images.githubusercontent.com/46791949/129504846-d6fc58e3-ef33-41c0-b911-1b3812ae3ee8.png" />][discord]
+[<img align="left" alt="Instagram" width="40px" src="https://user-images.githubusercontent.com/46791949/129504870-a8ff1e80-4f75-4422-a1f5-9502d6e463d9.png" />][email]
 
 
 [linkedin]: https://www.linkedin.com/in/jennitirok/
