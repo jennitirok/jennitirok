@@ -1,8 +1,10 @@
-## Hello! I'm Jennifer 👋
+### Hello! I'm Jennifer 👋
 
-### I'm a 2nd Year Computer Science Student at The University of Manchester!
+I'm a 2nd Year Computer Science Student at The University of Manchester!
 
-### Languages:
+<hr>
+
+#### Languages:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/46791949/129507067-6ca95535-5e3f-4cb5-864c-d16e7aa57a44.png" />
@@ -18,7 +20,7 @@
 <br>
 <br>
 
-### Tools:
+#### Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -29,7 +31,7 @@
 <br>
 <hr>
 
-### Connect with me: 
+#### Connect with me: 
 [<img align="left" alt="LinkedIn" width="40px" src="https://user-images.githubusercontent.com/46791949/129504805-f5ba1230-ca75-4b41-9e71-dde1c3c6abf3.png" />][linkedin]
 [<img align="left" alt="Instagram" width="40px" src="https://user-images.githubusercontent.com/46791949/129504821-b37e4c91-9cd9-4538-9ab2-d3f14e2d89eb.png" />][instagram]
 [<img align="left" alt="WhatsApp" width="49px" src="https://user-images.githubusercontent.com/46791949/129504846-d6fc58e3-ef33-41c0-b911-1b3812ae3ee8.png" />][discord]
