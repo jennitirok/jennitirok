@@ -20,8 +20,11 @@ I'm a 2nd Year Computer Science Student at The University of Manchester!
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="C" width="32px" src="https://user-images.githubusercontent.com/46791949/129506832-0456e28f-b0d2-4fb3-a6b7-806fa7efe955.png" />
 
-<br>
-<br>
+<br><br>
+
+<img align="left" alt="jennitirok's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennitirok&layout=compact&langs_count=9&theme=cobalt" />
+
+<br><br><br><br><br><br>
 <hr>
 
 #### Connect with me: 
@@ -30,11 +33,8 @@ I'm a 2nd Year Computer Science Student at The University of Manchester!
 [<img align="left" alt="WhatsApp" width="49px" src="https://user-images.githubusercontent.com/46791949/129504846-d6fc58e3-ef33-41c0-b911-1b3812ae3ee8.png" />][discord]
 [<img align="left" alt="Instagram" width="40px" src="https://user-images.githubusercontent.com/46791949/129504870-a8ff1e80-4f75-4422-a1f5-9502d6e463d9.png" />][email]
 
-<br>
-<br>
-<br>
 
-<img align="left" alt="jennitirok's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jennitirok&hide_border=true&show_icons=true&theme=cobalt&count_private=true&hide=stars" />
+<!-- <img align="left" alt="jennitirok's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jennitirok&hide_border=true&show_icons=true&theme=cobalt&count_private=true&hide=stars" /> -->
 
 
 [linkedin]: https://www.linkedin.com/in/jennitirok/
