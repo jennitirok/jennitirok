@@ -35,7 +35,7 @@ I'm a 2nd Year Computer Science Student at The University of Manchester!
 
 <img align="left" alt="jennitirok's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennitirok&layout=compact&langs_count=9&theme=cobalt&hide_border=true" />
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ---
 
