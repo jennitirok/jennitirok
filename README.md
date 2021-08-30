@@ -2,7 +2,7 @@
 
 I'm a 2nd Year Computer Science Student at The University of Manchester!
 * 🖥 I'm currently expanding my frontend skills and building my own portfolio
-* 🌱 I'm currently participating Google's Get Ahead EMEA 2021 Program
+* 🌱 I just finished participating Google's Get Ahead EMEA 2021 Program
 * 🎯 2021 Goals: start contributing to open source projects!
 
 ---
