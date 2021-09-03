@@ -1,7 +1,7 @@
 ### Hello! I'm Jennifer 👋
 
 I'm a 2nd Year Computer Science Student at The University of Manchester!
-* 🖥 I'm currently expanding my frontend skills and building my own portfolio
+* 🖥 I'm currently expanding my web development skills and building my own portfolio
 * 🌱 I just finished participating Google's Get Ahead EMEA 2021 Program
 * 🎯 2021 Goals: start contributing to open source projects!
 
