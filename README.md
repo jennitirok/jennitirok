@@ -32,6 +32,10 @@ I'm a 2nd Year Computer Science Student at The University of Manchester!
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
 <img align="left" alt="jennitirok's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennitirok&layout=compact&langs_count=9&theme=cobalt&hide_border=true" />
