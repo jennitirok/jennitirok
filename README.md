@@ -5,6 +5,7 @@ I'm a 2nd Year Computer Science Student at The University of Manchester!
 * 🙌🏼 I am part of UniCS's Hackathons Team
 * 🌱 I just finished participating Google's Get Ahead EMEA 2021 Program, check out my repo [here](https://github.com/jennitirok/Google-Get-Ahead-EMEA)!
 * 🎯 2021 Goals: start contributing to open source projects!
+* View my [resume](https://drive.google.com/file/d/14PrqiArUSw2tuTs5VVzHbCFnDzT1ONlL/view?usp=sharing)!
 
 ---
 
