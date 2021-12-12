@@ -1,5 +1,7 @@
 ### Hello! I'm Jennifer 👋
 
+![Views](https://komarev.com/ghpvc/?username=jennitirok&color=blueviolet&style=flat&label=Profile+Views)
+
 I'm a 2nd Year Computer Science Student at The University of Manchester!
 * 🖥 I'm currently expanding my web development skills and building my own portfolio
 * 🙌🏼 I am part of UniCS's Hackathons Team
