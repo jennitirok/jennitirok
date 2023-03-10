@@ -5,7 +5,7 @@
 I'm a 2nd Year Computer Science Student at The University of Manchester!
 * 🖥 I'm currently doing my placement year at Qube Research & Technologies Ltd as a Quantitative Technologist!!
 * 🌱 Check out my repo for Google's Get Ahead EMEA 2021 Program [here](https://github.com/jennitirok/Google-Get-Ahead-EMEA)!
-* View my [resume](https://drive.google.com/file/d/1PeobrdlmbQqfEfV5Lf3qccPCUZzLPxAw/view?usp=sharing)!
+* View my [resume](https://drive.google.com/file/d/1rRVRYSwicdB7SUtn5tQfH3DGAG58QS4Z/view?usp=sharing)!
 
 ---
 
