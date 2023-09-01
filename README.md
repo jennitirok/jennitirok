@@ -2,8 +2,8 @@
 
 ![Views](https://komarev.com/ghpvc/?username=jennitirok&color=blueviolet&style=flat&label=Profile+Views)
 
-I'm a 2nd Year Computer Science Student at The University of Manchester!
-* 🖥 I'm currently doing my placement year at Qube Research & Technologies Ltd as a Quantitative Technologist!!
+I'm a 3rd Year BSc Computer Science Student at The University of Manchester!
+* 🖥 I just recently completed my 14-month placement at Qube Research & Technologies Ltd as a Quantitative Technologist
 * 🌱 Check out my repo for Google's Get Ahead EMEA 2021 Program [here](https://github.com/jennitirok/Google-Get-Ahead-EMEA)!
 * View my [resume](https://drive.google.com/file/d/1rRVRYSwicdB7SUtn5tQfH3DGAG58QS4Z/view?usp=sharing)!
 
@@ -23,8 +23,10 @@ I'm a 2nd Year Computer Science Student at The University of Manchester!
 <img align="left" alt="Next" width="32px" src="https://user-images.githubusercontent.com/46791949/129506832-0456e28f-b0d2-4fb3-a6b7-806fa7efe955.png" /> -->
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +36,6 @@ I'm a 2nd Year Computer Science Student at The University of Manchester!
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
